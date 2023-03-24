@@ -1,5 +1,0 @@
-	- endroits de pause : points de controle --> representer en z le differentiel de vitesse entre différentes équipes
-	- reperer les zones ou il y plus de difference entre les equipe et correler avec le relief ou autre chose
-	--> boite à moustache
-
-
